@@ -45,7 +45,7 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
 ```bash
-# run the following command
+# run the following command to create and store pinecone index 
 python store_index.py
 ```
 
