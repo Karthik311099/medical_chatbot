@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
@@ -55,10 +54,6 @@ python store_index.py
 python app.py
 ```
 
-Now,
-```bash
-open up localhost:
-```
 
 
 ### Techstack Used:
